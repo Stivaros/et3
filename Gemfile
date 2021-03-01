@@ -44,7 +44,7 @@ gem 'httparty', '~> 0.17'
 gem 'uk_postcode', '~> 2.1'
 # Add .env file to store environment variables
 gem 'dotenv-rails', '~> 2.7'
-gem 'invisible_captcha', '~> 1.1.0'
+gem 'invisible_captcha', '~> 2.0.0'
 gem 'devise', '~> 4.7', '>= 4.7.3'
 gem 'base32_pure', '~> 0.1'
 
