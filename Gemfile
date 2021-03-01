@@ -86,7 +86,7 @@ end
 group :production do
   # Add bootsnap for 5.2
   gem 'bootsnap', '~> 1.4'
-  gem 'iodine', '~> 0.7.43'
+  gem 'iodine', '~> 0.7.44'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
