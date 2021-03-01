@@ -75,7 +75,7 @@ group :test do
   gem 'capybara-screenshot', '~> 1.0'
   gem 'rspec-rails', '~> 4.0'
   gem 'site_prism', '~> 3.7'
-  gem 'webdrivers', '~> 4.0'
+  gem 'webdrivers', '~> 4.6'
   gem 'database_cleaner', '~> 2.0'
   gem 'webmock', '~> 3.11'
   gem 'faker', '~> 2.15'
